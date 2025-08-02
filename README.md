@@ -1,2 +1,4 @@
 # AEGISFLOW
 Oil Containment USV
+As part of the AEGIS FLOW project the primary objective was to design and simulate a  seaworthy unmanned surface vehicle (USV) to support autonomous environmental monitoring specifically for oil spill detection and response in coastal and nearshore waters. The vehicle was intended to navigate affected zones collect real time data using onboard sensors, and relay critical information back to response teams to accelerate containment and cleanup efforts.
+I used ANSYS AQWA to simulate buoyancy, pitch and roll responses in simpified sea states condition validating the design’s stability through both numerical simulations and analytical predictions. I also performed finite element analysis on the keel structure using ANSYS Mechanical(static structural) to determine the optimal 3D-printed infill pattern.
